@@ -1,11 +1,6 @@
 # html-code
 <!DOCTYPE HTML5>
 <html>
-<head>
-    <title>first project</title>
-    <meta charset="UTF-8">
-<meta http-equiv="refresh" content="30">
-</head>
 <body bgcolor="gray">
     <p align="center">
         <p align=right style="color: honeydew;">
