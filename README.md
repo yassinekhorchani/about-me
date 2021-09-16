@@ -54,15 +54,6 @@
         </h3>
     </div>
     </p>
-    <div><hr color="yellow"/></div>
-    <div style="background-color: yellow; color: rgb(61, 65, 58);"align="center">
-        <h1>
-            <li>are u a man<input type="checkbox"></li>
-            <li>are u from tunisia<input type="checkbox"></li>
-            <li>are u a full stack coder<input type="checkbox"></li>
-            <li>ta3ref tayeb 3eja?<input type="checkbox"></li>
-        </h1>
-    </div>
     <div align="center" style="color: yellow;">
         <img src="htmlf.jpg" height="49%" width="49%" />
         <img src="pythonn.png" height="49%" width="49%" />
